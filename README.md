@@ -8,4 +8,4 @@ Projeto desenvolvido durante o curso [B7WEB].
 - `npm install`
 
 ### Para rodar  
--`npm start`
+- `npm start`
